@@ -3,12 +3,12 @@
 ## Burials
 
 * 1679-1781 is WIP
-* No register from 1784 to 1792
+* No registers from 1784 to 1792 (most likely lost during the Revolutionary Wars)
 
 ## Notarial acts
 
-* For Jean-Antoine Auda 1579-1588, the "Individus" version has been automatically generated from the original index for easier search
+* For Jean-Antoine Auda 1579-1588, the "Individuals" version has been automatically generated from the original index for easier searching.
 
-## Census
+## Censuses
 
-* Only 12 years or older individuals are written in the source document
+* For 1801, only individuals over 12 years old are recorded in the source document.
