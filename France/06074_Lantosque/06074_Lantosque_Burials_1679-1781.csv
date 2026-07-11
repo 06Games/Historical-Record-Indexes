@@ -370,7 +370,7 @@ Page,Ville,Lieu de sépulture,Prêtre,Annee,Mois,Jour,Titre,Prenom,Nom,Sexe,Age,
 30,Lantosque,Saint-Pons Martyr,,1691,2,9,,Victoire,Moissini,F,50 ans,,,Louis †,Moissini,Hippolyte,,,,,,20,https://www.geneanet.org/registres/view/17492/20,5 Mi 75/1,23/02/26
 30,Lantosque,Saint-Pons Martyr,,1691,2,22,,Jéromine,,F,60 ans,,,,,,,,Claude Philippe,Ciais,,20,https://www.geneanet.org/registres/view/17492/20,5 Mi 75/1,23/02/26
 30,Lantosque,Saint-Pons Martyr,,1691,2,26,,Antoine,,M,60 ans,La Bollène (06),,,,,,,,,,20,https://www.geneanet.org/registres/view/17492/20,5 Mi 75/1,23/02/26
-31,Lantosque,Saint-Pons Martyr,,1691,3,3,,Joseph,Bruni,M,26 ans,,,Barthélemy,Sereni,,,,,,,20,https://www.geneanet.org/registres/view/17492/20,5 Mi 75/1,23/02/26
+31,Lantosque,Saint-Pons Martyr,,1691,3,3,,Joseph,Bruni,M,26 ans,,,Barthélemy,Bruni,,,,,,,20,https://www.geneanet.org/registres/view/17492/20,5 Mi 75/1,23/02/26
 31,Lantosque,Saint-Pons Martyr,,1691,3,18,,Louis,Thaoni,M,1 an,,,Honoré,Thaoni,,,,,,,20,https://www.geneanet.org/registres/view/17492/20,5 Mi 75/1,23/02/26
 31,Lantosque,Saint-Pancrace,,1691,3,27,,Louis,Sereni,M,64 ans,,,,,,,,,,,20,https://www.geneanet.org/registres/view/17492/20,5 Mi 75/1,23/02/26
 31,Lantosque,Saint-Pons Martyr,,1691,4,2,,Marie Marguerite,Buffoni,F,20 ans,,nob.,Joseph †,Buffoni,,,,,,,20,https://www.geneanet.org/registres/view/17492/20,5 Mi 75/1,23/02/26
@@ -848,3 +848,68 @@ Page,Ville,Lieu de sépulture,Prêtre,Annee,Mois,Jour,Titre,Prenom,Nom,Sexe,Age,
 67,Lantosque,,,1702,9,16,,Françoise,,F,60 ans,,,,,,,,Jean Baptiste,Sereni,,38,https://www.geneanet.org/registres/view/17492/38,5 Mi 75/1,25/06/26
 67,Lantosque,,,1702,9,28,,Pierre,Fulconis,M,11 ans,,,Jean Baptiste,Fulconis,Angèle,,,,,,38,https://www.geneanet.org/registres/view/17492/38,5 Mi 75/1,25/06/26
 67,Lantosque,,,1702,9,31,,Antoine,Christini,M,11 jours,,,Charles Antoine,Christini,Claudine,,,,,Né le 20,38,https://www.geneanet.org/registres/view/17492/38,5 Mi 75/1,25/06/26
+67,Lantosque,,,1702,10,12,,Pierre Louis,Otto,M,5 jours,,,Charles Antoine,Otto,Marie,,,,,Né le 7,38,https://www.geneanet.org/registres/view/17492/38,5 Mi 75/1,11/07/26
+67,Lantosque,,,1702,11,5,,Jean Baptiste,Manseria,M,2 ans,,,Hyacinthe,Manseria,Véronique,,,,,,38,https://www.geneanet.org/registres/view/17492/38,5 Mi 75/1,11/07/26
+67,Lantosque,,,1702,11,8,,Marie Catherine,Fulconis,F,2 ans,,,Jean Baptiste,Fulconis,Angèle,,,,,,38,https://www.geneanet.org/registres/view/17492/38,5 Mi 75/1,11/07/26
+67,Lantosque,,,1702,11,20,,Honoré,Dalloni,M,56 ans,,,André †,Dalloni,,,,,,,38,https://www.geneanet.org/registres/view/17492/38,5 Mi 75/1,11/07/26
+67,Lantosque,,,1702,11,27,,Anne Marie,,F,65 ans,,,,,,,,François,Auda,,38,https://www.geneanet.org/registres/view/17492/38,5 Mi 75/1,11/07/26
+68,Lantosque,,,1702,12,6,,Jeannette,,F,68 ans,,,,,,,,Jean Baptiste †,Carassi,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1702,12,7,,Catherinette,,F,70 ans,,,,,,,,Jean André,Lanti,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1702,12,8,,Joseph,Gaglio,M,6 mois,,,Jean Baptiste,Gaglio,Jeannette,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1702,12,16,,Marie Thérèse,Martelli,F,2 ans,,,Louis †,Martelli,Marie Catherine,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1702,12,24,,Jeannette,,F,70 ans,,,,,,,,Jean Baptiste †,Auda,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1702,12,24,,Marie Françoise,Buffoni,F,16 jours,,,Barthélemy,Buffoni,Félicie,,,,,Née le 8,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1702,12,31,,Jean Baptiste,Auda,M,2 ans,,,Claude,Auda,Françoise †,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1703,1,15,,Pierre Antoine,Mera,M,60 ans,,,,,,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1703,1,16,,Marie Catherine,Maurini,F,9 jours,,,Jean Baptiste,Maurini,Catherine,,,,,Née le 7,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1703,1,28,,Angèle Catherine,Auda,F,19 jours,,,Claude,Auda,,,,,,Née le 9,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1703,2,5,,Jean Baptiste,Passeroni,M,12 ans,,,Pierre,Passeroni,Anne Marie,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1703,2,17,,Marie Elisabeth,Martelli,F,10 jours,,,Jean Baptiste,Martelli,Marie,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1703,3,3,,Catherinette,Thaoni,F,5 ans,,,Joseph,Thaoni,Marie,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1703,3,9,,Jean Antoine,Christini,M,1 an,,,Honoré,Christini,Jeannette,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+68,Lantosque,,,1703,3,11,,Louise,Buffoni,F,4 mois,,,Louis,Buffoni,Angélique,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,3,12,,Joseph,Ingigliardi,M,1 an,,,Barthélemy,Ingigliardi,Catherinette,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,3,13,,Rosalie,Passeroni,F,4 mois,,,Pierre Antoine,Passeroni,Marie Catherine,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,3,14,,Antoine,Otto,M,5 ans,,,Jean André,Otto,Jeannette,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,3,15,,Marguerite,Ferreri,F,5 jours,,,Louis,Ferreri,Jeanne,,,,,Née le 10,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,3,15,,Véran,Nicolai,M,50 ans,,,Jean †,Nicolai,,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,3,25,,Louise,Ciais,F,7 ans,,,Pierre,Ciais,,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,4,3,,,Auda,,Mort à la naissance,,,Jean Baptiste,Auda,Marguerite,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,4,4,,Etienne,Sicardi,M,7 ans,,,Jean,Sicardi,Marie,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,4,8,,Marie Catherine,Moissini,F,4 mois,,,Louis,Moissini,Marie,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,4,6,,Andrivette,,F,65 ans,,,,,,,,Jacques,Passeroni,Incohérence chronologique,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,4,11,,Antoine François,Thaoni,M,10 jours,,,Jean Baptiste,Thaoni,Marguerite,,,,,Né le 01,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,4,13,,Françoise,Millo,F,22 ans,,,Jean André,Millo,Camille,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,4,14,,Lucrèce,Millo,F,2 ans,,,Jean Baptiste,Millo,Marie,,,,,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,4,17,,Jeanne,,F,45 ans,,,,,,,,Louis,Ferreri,,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+69,Lantosque,,,1703,5,6,,Joseph,Drago,M,35 ans,,,Louis,Drago,Françoise,,,,,Sans les sacrements,39,https://www.geneanet.org/registres/view/17492/39,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,5,9,,Marie Catherine,Otto,F,4 mois,,,Jean Baptiste,Otto,Marie,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,5,30,,Joseph,Christini,M,60 ans,,,,,,,,,,Dit « Durandi »,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,6,1,,Elisabeth,Gaeti,F,18 ans,Roquebillière (06),,Antoine,Gaeti,,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,6,7,,Marguerite,,F,25 ans,,,,,,,,Jean Baptiste,Auda,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,6,15,,Honoré,Anfossi,M,70 ans,Belvédère (06),,,,,,,,,Sans les sacrements,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,8,17,,Bertine,,F,75 ans,,,,,,,,Pierre,Ciaissi,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,9,13,,Louise,Millo,F,2 ans,,,Antoine,Millo,Catherine,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,10,15,,Louise,Tessi,F,4 ans,Rocca,,Isoard †,Tessi,,,,,,Fassi ? De Roquebillière ?,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,10,21,,Jean,Manseria,M,1 an,,,Jean Baptiste,Manseria,Catherine,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,10,27,,Joseph,Viletta,M,2 ans,,,Pierre,Viletta,Marie,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,10,28,,Barthélemy,Dalloni,M,1 mois,,,Sulpice,Dalloni,Marie Jéromine,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,12,1,,Marie Thérèse,Manseria,F,2 ans,,,Philippe,Manseria,,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,12,6,,Françoise,Guiberti,F,7 ans,,,Jean,Guiberti,Angèle Marie,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+70,Lantosque,,,1703,12,10,,Pierre,Ciaissi,M,20 jours,,,Jean Antoine,Ciaissi,Catherine,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,2,19,,Jean Mathieu,Millo,M,2 ans,,,François †,Millo,,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,3,1,,Jean Louis,Dalloni,M,30 ans,,,,,,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,3,3,,Joseph,Passeroni,M,6 ans,,,Jean,Passeroni,Catherine,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,3,20,,Catherine,,F,55 ans,,,,,,,,Antoine,Millo,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,4,1,,Jean,Auda,M,10 ans,,,Jean André †,Auda,Honorée,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,4,7,,Antoine,Millo,M,65 ans,,,Pancrace †,Millo,,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,4,16,,Jean Baptiste,Millo,M,1 an,,,Charles,Millo,Catherine,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,5,13,,Joseph,Otto Bruc,M,2 mois,,,Pons,Otto Bruc,Angèle,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,6,4,,Catherinette,,F,75 ans,,,,,,,,Pierre †,Stephani Torrier,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,8,1,,Jean,Millo,M,5 mois,,,Joseph,Millo,Marie,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,8,5,,Catherine,Ciarletti,F,2 ans,,,Jean Baptiste,Ciarletti,Marguerite,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,8,7,,Jeannette,Passeroni,F,2 ans,,,Jean Baptiste,Passeroni,Catherinette,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+71,Lantosque,,,1704,8,15,,Jean Baptiste,Auda,M,1 an,,,Jean Baptiste,Auda,Angèle Marie,,,,,,40,https://www.geneanet.org/registres/view/17492/40,5 Mi 75/1,11/07/26
+72,Lantosque,,,1704,8,15,,Marguerite,Gaglio,F,1 an,,,Jacques,Gaglio,Bartolomée,,,,,,41,https://www.geneanet.org/registres/view/17492/41,5 Mi 75/1,11/07/26
+72,Lantosque,,,1704,8,30,,Camille,Davini,F,7 ans,,,Philippe,Davini,Marie,,,,,,41,https://www.geneanet.org/registres/view/17492/41,5 Mi 75/1,11/07/26
+72,Lantosque,,,1704,9,5,,,,,,,,,,,,,,,,41,https://www.geneanet.org/registres/view/17492/41,5 Mi 75/1,11/07/26
