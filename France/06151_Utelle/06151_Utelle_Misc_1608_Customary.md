@@ -1,6 +1,6 @@
 ## p117 - page de droite
 
-fures ... (bords supérieurs brûlés)  
+fures ...  
 di S.to Ma...  
 
 P.o fu antiquo op...  
@@ -33,7 +33,7 @@ super sup fructus terrae et maneat simi resp. amen.
 
 ## p118 - page de gauche
 
-... verso (bords supérieurs brûlés)  
+... verso  
 ... anno  
 ... di miracoli  
 ...ni secondo il  
@@ -62,7 +62,7 @@ precedendo la croce seguendo doppo esso il populo
 
 ## p118 - page de droite
 
-et n... (bords supérieurs brûlés)  
+et n...  
 ivanti ...  
 botine se ...  
 Durante esso tempo ...  
@@ -92,7 +92,7 @@ solenne a spese della confraternita et doppo vespero...
 
 ## p119 - page de gauche
 
-... grande (bords supérieurs brûlés)  
+... grande  
 ... corpus D[omi]ni  
 ... almente et primo  
 ... la chiesia parrochi[ale]  
@@ -124,7 +124,7 @@ Misericors v[est]ris o[mni]potens deus, et dimissis peccatis v[est]ris perdus
 
 ## p119 - page de droite
 
-D[omi]n[us] ... (bords supérieurs brûlés)  
+D[omi]n[us] ...  
 amen. ...  
 Emparares ...  
 de faire profe...  
@@ -153,7 +153,7 @@ messo a far oration p[er] los estats ecclesiastics soes p[er] n[ost]re s. Paire 
 
 ## p120 - page de gauche
 
-...ians (bords supérieurs brûlés)  
+...ians  
 ... dono forso  
 ... pas et d'adminestrar  
 ... p los fiuet de laterno pre  
@@ -181,7 +181,7 @@ In ogni Domenica subito doppo disnar s'insegna la dottrina xptiana.
 
 ## p120 - page de droite
 
-rosano ... (bords supérieurs brûlés)  
+rosano ...  
 alla porta ...  
 della porte m...  
 se ne vi il clero ...  
@@ -210,7 +210,7 @@ etc. p[er] comemoratione de S.to Verano con l'oratione exaudi etc.
 
 ## p121 - page de gauche
 
-... passa (bords supérieurs brûlés)  
+... passa  
 ... se canto simi  
 ...nti la capella di S.to  
 ... celire con l'oratio[ne]  
@@ -239,7 +239,7 @@ Nelli tre giorni della pentecoste se dicono tutti li officii in choro.
 
 ## p121 - page de droite
 
-ritus... (bords supérieurs brûlés)  
+ritus...  
 Nelle vigilie ...  
 solennemente a mes...  
 li sera ...  
