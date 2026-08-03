@@ -12,7 +12,7 @@ M. 🞣,Antoni,Antoine,Maurel,Maurel,Gra...,M,,,,,,,,,,,,,,,,,,,,,111,,,https://
 🞣,Antoneto,Antoinette,Maurelo,Maurel,Todonesco,F,,,,,,,,,,,,,,,,,,7,R,6,111,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/111,https://www.geneanet.org/registres/view/17215/6,Utelle,1608
 ,Antoni,Antoine,Ollivar,Ollivari,,M,,,,Joane †,Jean †,,,,,,,,,,,,,7,V,7,111,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/111,https://www.geneanet.org/registres/view/17215/7,Utelle,1608
 ,Antoni,Antoine,Malaucena,Malaussena,,M,,,,Joan Gabriel †,Jean Gabriel †,,,,,,,,,,,,"Xxx 25 ans, Christophe 15 ans",7,V,7,111,,Un fils s’est marié à une Jacqueline,https://www.geneanet.org/registres/view/17215/111,https://www.geneanet.org/registres/view/17215/7,Utelle,1608
-,Petrus,Pierre,Malaucena,Malaussena,,M,,,,Antoni,Antoine,,Jaumona,Jacqueline,Bov,Bovis,,,,,Ludovicus,Louis,,7,V,7,,Par déduction avec les infos du folio 171,,,,,
+,Petrus,Pierre,Malaucena,Malaussena,,M,,,,Antoni,Antoine,,Jaumona,Jacqueline,Bov,Bovis,,,,,Ludovicus,Louis,,7,V,7,,Par déduction avec les infos du folio 171,,,https://www.geneanet.org/registres/view/17215/7,Utelle,1608
 ,Antoni,Antoine,Ros,Rosso,,M,,,,Giaume †,Jacques †,,,,,,,,,,,,,8,R,7,111,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/111,https://www.geneanet.org/registres/view/17215/7,Utelle,1608
 ,Antoni,Antoine,Faraut,Faraud,Vermeglie,M,,,,,,,Andriveto,Andrivette,,,,,,,Chiafre †,Geoffroy †,"Jean 15 ans, Antoinette 12 ans, Bartholomée 9 ans, Antoine 5 ans et Paul baptisé le 10 juin 1609",8,R,7,111,,"Paul a pour parrain ... Faraut et pour marraine, son épouse, Bartholomée",https://www.geneanet.org/registres/view/17215/111,https://www.geneanet.org/registres/view/17215/7,Utelle,1608
 ,Antoni,Antoine,Faraut,Faraud,Amorus,M,46,,,Antoni †,Antoine †,,,,,,,,,,,,,8,V,,111,Page sautée,,https://www.geneanet.org/registres/view/17215/111,,Utelle,1608
@@ -423,7 +423,7 @@ m.,Loison,Louis,Passeron,Passeron,,M,,,,,,,,,,,,,,,,,,173,V,,114,Page sautée,,h
 ,Melan,Melaine,Robaut,Robaudi,Gros,M,36,,,Martin †,Martin †,,Philip.,Philippine,Millo,Millo,Massoin,25,,,Ludovici †,Louis †,"Louise 8 ans, Pierre 7 ans, Élise 4 ans, Bénédicte 1 an et Barthélémy baptisé le 21/04/1610",190,V,91,115,,"Barthélémy a pour parrain Barthélémy Maurel et pour marraine, son épouse, Angélique",https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/91,Utelle,1608
 ,Margarito,Marguerite,,,,F,,,,,,,Ant. †,Antoine †,Passerono,Passeron,,,,,,,,191,R,91,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/91,Utelle,1608
 ,Margarito,Marguerite,Bov,Bovis,,F,50,,,Joane †,Jean †,,Tonon †,Antoine †,Venassono,Venassone,Duc,,,,,,Pierre 32 ans,191,R,91,115,Son fils est reporté dans un enregistrement séparé,,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/91,Utelle,1608
-,Pet.,Pierre,Venassono,Venassone,Duc,M,32,,,Tonon †,Antoine †,,Berthometo,Barthélémie,Martini,Martino,,,,M.,Honor.,Honoré,"Pierre 7 ans, Véran 6 ans, Barthélémy 4 ans et Jean Pierre 1 an",191,R,91,115,,,,,,
+,Pet.,Pierre,Venassono,Venassone,Duc,M,32,,,Tonon †,Antoine †,,Berthometo,Barthélémie,Martini,Martino,,,,M.,Honor.,Honoré,"Pierre 7 ans, Véran 6 ans, Barthélémy 4 ans et Jean Pierre 1 an",191,R,91,115,,,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/91,Utelle,1608
 ,Margarito,Marguerite,,,,F,,,,,,,Ant. †,Antoine †,Ollivario,Ollivari,,,,,,,,191,V,92,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/92,Utelle,1608
 ,Marchet,Marc,Bov,Bovis,Bonas,M,,,,,,,,Jeanne,Pascheri,Paschier,,25,,,,,Barthélémie et un enfant baptisé en mars 1609,191,V,92,115,Prénom de l’épouse déduit des BMS. Remariage reporté dans un nouvel enregistrement,Marc s’est remarié,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/92,Utelle,1608
 ,Marchet,Marc,Bov,Bovis,Bonas,M,,,,,,,,Andrivette,,,,,,,Jacobi,Jacques,,191,V,92,115,Prénom de l’épouse déduit des BMS. ,Mariés un 22 février en présence de Jean Clerici,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/92,Utelle,1608
@@ -432,44 +432,45 @@ m.,Loison,Louis,Passeron,Passeron,,M,,,,,,,,,,,,,,,,,,173,V,,114,Page sautée,,h
 ,Margarito,Marguerite,Faraut,Faraud,Vimaire,F,40,,,Joane †,Jean †,,Joan Peire †,Jean Pierre †,Bova,Bovis,La Mort,,,,,,"Véran 18 ans, Érige 16 ans et Barthélémie 12 ans",192,V,93,115,,,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/93,Utelle,1608
 ,Melan,Melaine,Bov,Bovis,Gavot,M,,,,,,,,,,,,,,,,,,193,R,93,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/93,Utelle,1608
 ,Margarito,Marguerite,,,,F,,,,,,,Joan Lois †,Jean Louis †,Passerono,Passeron,,,,,,,,193,V,94,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/94,Utelle,1608
-,Margarito,Marguerite,,,,F,,,,,,,Rafel †,Raphaël †,Passerono,Passeron,,,,,,,,194,R,94,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/95,Utelle,1608
-,Margarito,Marguerite,Delfino,Delfino,,F,18,,,Veran †,Véran †,,,,,,,,,,,,,194,R,94,115,,,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/95,Utelle,1608
+,Margarito,Marguerite,,,,F,,,,,,,Rafel †,Raphaël †,Passerono,Passeron,,,,,,,,194,R,94,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/94,Utelle,1608
+,Margarito,Marguerite,Delfino,Delfino,,F,18,,,Veran †,Véran †,,,,,,,,,,,,,194,R,94,115,,,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/94,Utelle,1608
 ,Marineto,Marinette,Masseglio,Masseglia,,F,,,,Joane †,Jean †,,,,,,,,,,,,,194,V,95,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/95,Utelle,1608
 ,Marc,Marc,Cabanal,Cabanal,,M,,,,Joane,Jean,,,Jeannette,,Roret,,23,,,Gregori †,Grégoire †,Barthélémie (?) et un enfant baptisé le 14/03/1610,194,V,95,115,"Photo floue, utilisation des BMS pour compléter","La marraine de l’enfant est Francette, épouse du parrain",https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/95,Utelle,1608
 ,Marc,Marc,Maurel,Maurel,,M,,,,,,,,,,,,,,,,,,195,R,95,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/95,Utelle,1608
 ,Melan,Melaine,Malaucena,Malaussena,,M,26,,,Melchior †,Melchior †,,Berthometo,Barthélémie,Maurel,Maurel,,14,,,Joan Bap.,Jean Baptiste,,195,R,95,115,Photo floue,,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/95,Utelle,1608
 ,Martin,Martin,Faraut,Faraud,,M,,,,Steve †,Étienne †,,,,,,,,,,,,,195,,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,N...,,,,,,,,,,,,,,,,,,,,,,,,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,N...,,,,,,,,,,,,,,,,,,,,,,,,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,N...,,,,,,,,,,,,,,,,,,,,,,,,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,N...,,,,,,,,,,,,,,,,,,,,,,,,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Nicol.,Nicolas,,,,M,,,,,,,,,,,,,,,,,,,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Perineta,Perrinette,,,,F,,,,,,,Silvestri †,Silvestre †,Ollivaria,Ollivari,,,,,,,,200,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Petrus,Pierre,Maurel,Maurel,Trebolet,M,,,,Gregori †,Grégoire †,,,,,,,,,,,,,200,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Perineta,Perrinette,,,,F,,,,,,,Laurens †,Laurent †,Bovo,Bovis,,,,,,,,200,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Peiron,Perrin,Malaucena,Malaussena,,M,,,,Lois †,Louis †,,,,,,,,,,,,,201,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Philipono,Philippine,,,,F,,,,,,,Geron †,Jérôme †,Colombeto ?,Colombeto ?,,,,,,,,201,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Peiron,Perrin,Faraut,Faraud,,M,,,,Laurens †,Laurent †,,,,,,,,,,,,,202,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Philipono,Philippine,,,,F,,,,,,,Ant. †,Antoine †,Rosso,Rosso,Fenoglieto,,,,,,,202,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Peiron,Perrin,Candon,Cando,Habitator,M,,,,Gregori †,Grégoire †,,,,,,,,,,,,,202,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Philipono,Philippine,,,,F,,,,,,,Gregori †,Grégoire †,Faraudo,Faraud,,,,,,,,203,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Peiron,Perrin,Maurel,Maurel,Trebole,M,,,,Hon. †,Honoré †,,,,,,,,,,,,,203,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Peiron,Perrin,Ollivar,Ollivari,Gogion,M,,,,,,,,,,,,,,,,,,204,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Paule,Paul,Robaut,Robaudi,Gaison,M,,,,,,,,,,,,,,,,,,204,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Petrus,Pierre,Faraud,Faraud,Delfin,M,,,,Martin †,Martin †,,,,,,,,,,,,,205,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Philipono,Philippine,,,,F,,,,,,,Peiron †,Pierre †,Dalono,Dalloni,,,,,,,,205,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
- 🞣,Peiron,Perrin,Christin,Cristini,,M,,,,Alexi †,Alexis †,,,,,,,,,,,,,205,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Petrus,Pierre,Cabanal,Cabanal,,M,,,,Nicol †,Nicolas †,,,,,,,,,,,,,206,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Petrus,Pierre,Ollivarius,Ollivari,Fustier,M,,,,,,,,,,,,,,,,,,206,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,N...,,,,,,,,,,,,,,,,,,,,,,,,,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,N...,,,,,,,,,,,,,,,,,,,,,,,,,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,N...,,,,,,,,,,,,,,,,,,,,,,,,,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,N...,,,,,,,,,,,,,,,,,,,,,,,,,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Nicol.,Nicolas,,,,M,,,,,,,,,,,,,,,,,,,,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Perineta,Perrinette,,,,F,,,,,,,Silvestri †,Silvestre †,Ollivaria,Ollivari,,,,,,,,200,,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Petrus,Pierre,Maurel,Maurel,Trebolet,M,,,,Gregori †,Grégoire †,,,,,,,,,,,,,200,,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Perineta,Perrinette,,,,F,,,,,,,Laurens †,Laurent †,Bovo,Bovis,,,,,,,,200,V,96,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/96,Utelle,1608
+ 🞣,Peirinem,Perrine,,,,F,40,,,Joan Lois †,Jean Louis †,,,,,,,,,,,,,200,V,96,,"Photo floue, pas dans la table visible",Décédée le 22 mai 1608,,https://www.geneanet.org/registres/view/17215/96,Utelle,1608
+,Peiron,Perrin,Malaucena,Malaussena,,M,,,,Lois †,Louis †,,,,,,,,,,,,,201,R,96,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/96,Utelle,1608
+,Philipono,Philippine,,,,F,,,,,,,Geron †,Jérôme †,Colombeto ?,Colombeto ?,,,,,,,,201,V,97,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/97,Utelle,1608
+,Peiron,Perrin,Faraut,Faraud,,M,,,,Laurens †,Laurent †,,,,,,,,,,,,,202,R,97,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/97,Utelle,1608
+,Philipono,Philippine,Malaucena,Malaussena,,F,60,,,Tonon †,Antoine †,,Ant. †,Antoine †,Rosso,Rosso,Fenoglieto,,,,,,,202,R,97,115,,,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/97,Utelle,1608
+,Peiron,Perrin,Candon,Cando,Habitator,M,,,,Gregori †,Grégoire †,,,,,,,,,,,,,202,V,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Philipono,Philippine,,,,F,,,,,,,Gregori †,Grégoire †,Faraudo,Faraud,,,,,,,,203,R,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Peiron,Perrin,Maurel,Maurel,Trebole,M,,,,Hon. †,Honoré †,,,,,,,,,,,,,203,V,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Peiron,Perrin,Ollivar,Ollivari,Gogion,M,,,,,,,,,,,,,,,,,,204,R,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Paule,Paul,Robaut,Robaudi,Gaison,M,,,,,,,,,,,,,,,,,,204,V,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Petrus,Pierre,Faraud,Faraud,Delfin,M,,,,Martin †,Martin †,,,,,,,,,,,,,205,R,,115,Page sautée,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Philipono,Philippine,,,,F,,,,,,,Peiron †,Pierre †,Dalono,Dalloni,,,,,,,,205,V,98,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/98,Utelle,1608
+ 🞣,Peiron,Perrin,Christin,Cristini,,M,63,,,Alexi †,Alexis †,,Catoia,Catherine,Passeron,Passeron,Geliboi,25,,,Joane †,Jean †,"Jean Baptiste 6 ans, Jean 4 ans et Antoinette 3 ans",205,V,98,115,,Le père est décédé en août (?) 1608,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/98,Utelle,1608
+,Petrus,Pierre,Cabanal,Cabanal,,M,,,,Nicol †,Nicolas †,,,,,,,,,,,,,206,R,98,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/98,Utelle,1608
+,Petrus,Pierre,Ollivarius,Ollivari,Fustier,M,37,,,,,,Bartholomea,Barthélémie,Pascheri,Paschier,,,,,Petri †,Pierre †,"Silvestre 12 ans, Jeannette 7 ans, Jeannet 2 ans",206,R,98,115,,,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/98,Utelle,1608
 Mag.,Petrus,Pierre,Ollivarius,Ollivari,,M,,,,,,,,,,,,,,,,,,206,,,115,,Médecin,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 ,Peiron,Perrin,Bov,Bovis,,M,,,,,,,,,,,,,,,,,,207,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 ,Petrus,Pierre,Maurel,Maurel,Triganson,M,,,,,,,,,,,,,,,,,,207,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 ,Peirina,Perrine,,,,F,,,,,,,Monet †,Monet †,Gilio,Gilli,,,,,,,,208,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Peiron,Perrin,Paschier,Paschier,Del pen,M,,,,,,,,,,,,,,,,,,208,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Peirineto,Perrinette,,,,F,,,,,,,Joane †,Jean †,Faraudo,Faraud,,,,,,,,209,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Peiron,Perrin,Christin,Cristini,Domenegue,M,,,,,,,,,,,,,,,,,,209,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Peiron,Perrin,Bov,Bovis,,M,,,,Folco †,Foulques †,,,,,,,,,,,,,209,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,P...,,,,,,,,,,,,,,,,,,,,,,,,,,115,Pas dans la table visible,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Peiron,Perrin,Paschier,Paschier,Del pen,M,,,,,,,,,,,,,,,,,,208,V,99,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/99,Utelle,1608
+,Peirineto,Perrinette,,,,F,,,,,,,Joane †,Jean †,Faraudo,Faraud,,,,,,,,209,R,99,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/99,Utelle,1608
+,Peiron,Perrin,Christin,Cristini,Domenegue,M,25,,,,,,Berthometo,Barthélémie,Maurel,Maurel,,,,,Ludovici †,Louis †,"Jacques 4 ans, Jean 3 ans et Jean André baptisé le 07/01/1609",209,R,99,115,,"Jean André a pour parrain Jean André Passeron et pour marraine, son épouse, Baptistine",https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/99,Utelle,1608
+,Peiron,Perrin,Bov,Bovis,,M,,,,Folco †,Foulques †,,,,,,,,,,,,,209,V,100,115,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/100,Utelle,1608
+,Philipon,Philippe,Dallo,Dalloni,Mignot,M,39,,,,,,Francescheta,Francette,Robion,Robion,,16,,,Joane ,Jean,Catherine 1 an et Marguerite baptisé le 25/10/1610,,V,100,115,Pas dans la table visible,Marguerite a pour parrain Antoine Bonas et pour marraine Marguerite épouse d’Antoine Paschier,https://www.geneanet.org/registres/view/17215/115,https://www.geneanet.org/registres/view/17215/100,Utelle,1608
 ,P...,,,,,,,,,,,,,,,,,,,,,,,,,,115,Pas dans la table visible,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 ,P...,,,,,,,,,,,,,,,,,,,,,,,,,,115,Pas dans la table visible,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 ,P...,,,,,,,,,,,,,,,,,,,,,,,,,,115,Pas dans la table visible,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
@@ -487,7 +488,7 @@ Mag.,Petrus,Pierre,Ollivarius,Ollivari,,M,,,,,,,,,,,,,,,,,,206,,,115,,Médecin,h
 ,Peiron,Perrin,,,,M,,,,,,,,,,,,,,,,,,,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 ,Paule,Paul,Far...,Faraud,,M,,,,,,,,,,,,,,,,,,,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 m.,Peiron,Perrin,Giaufern,Jaufern,F...,M,,,,,,,,,,,,,,,,,,,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
-,Philip,Philippe,RobauT,Robaudi,,M,,,,,,,,,,,,,,,,,,217,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
+,Philip,Philippe,Robaut,Robaudi,,M,,,,,,,,,,,,,,,,,,217,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 ,Peiron,Perrin,Rostagn,Rostang,,M,,,,,,,,,,,,,,,,,,217,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 ,Peiron,Perrin,Malaucena,Malaussena,,M,,,,Joane †,Jean †,,,,,,,,,,,,,218,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
 ,Peiron,Perrin,Martin,Martino,,M,,,,Christol †,Christophe †,,,,,,,,,,,,,218,,,115,,,https://www.geneanet.org/registres/view/17215/115,,Utelle,1608
@@ -498,29 +499,29 @@ m.,Peiron,Perrin,Giaufern,Jaufern,F...,M,,,,,,,,,,,,,,,,,,,,,115,,,https://www.g
 ,Toneto,Antoinette,Christino,Cristini,Proncesco,F,,,,Peiro †,Pierre †,,,,,,,,,,,,,228,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
 ,Tonono,Antonie,,,,F,,,,,,,Joane †,Jean †,Paschero,Paschier,,,,,,,,228,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
 ,Tonono,Antonie,,,,F,,,,,,,Jaume †,Jacques †,Arbaudo,Arbaudi,,,,,,,,229,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Tonono,Antonie,Casono,Casoni,,F,,,,Joane †,Jean †,,,,,,,,,,,,,229,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Toneto,Antoinette,,,,F,,,,,,,Ant. †,Antoine †,Faraudo,Faraud,,,,,,,,229,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Tonon,Antoine,Masseglio,Masseglia,,M,,,,,,,,,,,,,,,,,,230,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Tonono,Antonie,Millonesso,Millo,,F,,,,Joane †,Jean †,,,,,,,,,,,,,230,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Toneto,Antoinette,,,,F,,,,,,,Joane †,Jean †,Malaucena,Malaussena,,,,,,,,230,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Tonono,Antonie,,,,F,,,,,,,Giaume †,Jacques †,Christino,Cristini,Torsel,,,,,,,231,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-m.,Tonon,Antoine,Maurin,Maurin,,M,,,,,,,,,,,,,,,,,,231,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Tonono,Antonie,Millonesso,Millo,,F,,,,Joane †,Jean †,,,,,,,,,,,,,232,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Tononeto,Antoinette,Chiaisso,Chiais,,F,,,,Lois †,Louis †,,,,,,,,,,,,,232,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Thomasino,Thomasine,,,,F,,,,,,,Hor. †,Honoré †,Maurelo,Maurel,,,,,,,,232,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Trigans,Trigance,Millo,Millo,,M,,,,,,,,,,,,,,,,,,233,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Toneto,Antoinette,,,,F,,,,,,,Ant. †,Antoine †,Ollivario,Ollivari,,,,,,,,233,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Tonon,Antoine,Giuglar,Giuglaris,,M,,,,,,,,,,,,,,,,,,234,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Christin,Cristini,,M,,,,Joan Ant. †,Jean Antoine †,,,,,,,,,,,,,241,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Ros,Rosso,,M,,,,Peiro †,Perrin †,,,,,,,,,,,,,242,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Valentino,Valentine,,,,M,,,,,,,Joane †,Jean †,Passeron,Passeron,Furon,,,,,,,242,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Millo,Millo,,M,,,,Christol †,Christophe †,,,,,,,,,,,,,243,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Paschier,Paschier,,M,,,,Chiafre †,Geoffroy †,,,,,,,,,,,,,243,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Aguglion,Aguglion,,M,,,,,,,,,,,,,,,,,,244,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Blaise,Blaise,,M,,,,,,,,,,,,,,,,,,244,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Giaufern,Jaufern,,M,,,,,,,,,,,,,,,,,,245,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-m.,Veran,Véran,Chelgle,Chelgle,,M,,,,,,,,,,,,,,,,,,245,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Ollivar,Ollivari,,M,,,,,,,†,†,,,,,,,,,,246,,,116,,Veuf,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Millo,Millo,,M,,,,Peiro †,Perrin †,,,,,,,,,,,,,246,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-Mag.,Urbanus,Urbain,Ollivarius,Ollivari,,M,,,,,,,,,,,,,,,,,,246,,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
-,Veran,Véran,Bovis,Bovis,De Chiabaut,M,,,,,,,,,,,,,,,,,,,,,116,Le folio n’est pas précisé dans la table,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Tonono,Antonie,Casono,Casoni,,F,,,,Joane †,Jean †,,,,,,,,,,,,,229,V,106,116,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/106,Utelle,1608
+,Toneto,Antoinette,,,,F,,,,,,,Ant. †,Antoine †,Faraudo,Faraud,,,,,,,,229,V,106,116,Quelques mots visibles en haut de la page,Quelque chose implique une Perrinette épouse (?) Cristini,https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/106,Utelle,1608
+,Tonon,Antoine,Masseglio,Masseglia,,M,,,,,,,,,,,,,,,,,,230,R,106,116,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/106,Utelle,1608
+,Tonono,Antonie,Millonesso,Millo,,F,31,,,Joane †,Jean †,,,,,,,,,,,,,230,R,106,116,,Non mariée,https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/106,Utelle,1608
+,Toneto,Antoinette,,,,F,,,,,,,Joane †,Jean †,Malaucena,Malaussena,,,,,,,,230,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Tonono,Antonie,,,,F,,,,,,,Giaume †,Jacques †,Christino,Cristini,Torsel,,,,,,,231,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+m.,Tonon,Antoine,Maurin,Maurin,,M,,,,,,,,,,,,,,,,,,231,V,107,116,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/107,Utelle,1608
+,Tonono,Antonie,Millonesso,Millo,,F,,,,Joane †,Jean †,,,,,,,,,,,,,232,R,107,116,"Non visible, page brulée",,https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/107,Utelle,1608
+,Tononeto,Antoinette,Chiaisso,Chiais,,F,23,,,Lois †,Louis †,,,,,,,,,,,,,232,R,107,116,,Non mariée,https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/107,Utelle,1608
+,Thomasino,Thomasine,,,,F,,,,,,,Hor. †,Honoré †,Maurelo,Maurel,,,,,,,,232,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Trigans,Trigance,Millo,Millo,,M,,,,,,,,,,,,,,,,,,233,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Toneto,Antoinette,,,,F,,,,,,,Ant. †,Antoine †,Ollivario,Ollivari,,,,,,,,233,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Tonon,Antoine,Giuglar,Giuglaris,,M,,,,,,,,,,,,,,,,,,234,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Veran,Véran,Christin,Cristini,,M,,,,Joan Ant. †,Jean Antoine †,,,,,,,,,,,,,241,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Veran,Véran,Ros,Rosso,,M,,,,Peiro †,Perrin †,,,,,,,,,,,,,242,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Valentino,Valentine,,,,M,,,,,,,Joane †,Jean †,Passeron,Passeron,Furon,,,,,,,242,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Veran,Véran,Millo,Millo,,M,,,,Christol †,Christophe †,,,,,,,,,,,,,243,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Veran,Véran,Paschier,Paschier,,M,,,,Chiafre †,Geoffroy †,,,,,,,,,,,,,243,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Veran,Véran,Aguglion,Aguglion,,M,,,,,,,,,,,,,,,,,,244,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Veran,Véran,Blaise,Blaise,,M,,,,,,,,,,,,,,,,,,244,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Veran,Véran,Giaufern,Jaufern,,M,,,,,,,,,,,,,,,,,,245,,,116,Page sautée,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+m.,Veran,Véran,Chelgle,Chelgle,,M,,,,,,,,,,,,,,,,,,245,V,109,116,Bout de mot visible en haut de la page,Quelque chose en mars,https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/109,Utelle,1608
+,Veran,Véran,Ollivar,Ollivari,,M,,,,,,,†,†,,,,,,,,,,246,R,109,116,"Non visible, page brulée",Veuf,https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/109,Utelle,1608
+,Veran,Véran,Millo,Millo,,M,28,,,Peiro †,Perrin †,,Honorado,Honorée,Ollivar,Ollivari,,,,,Nicolau,Nicolas,"Jeanette 5 ans, Jacques 3 ans, Louise 1 an et Andrivette baptisée le 14/02/1609",246,R ,109,116,,"Andrivette a pour parrain Véran Olivari (Ollivier) fils de François et pour marraine, Andrivette épouse de Jacques Girardi de Roquebillière",https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/109,Utelle,1608
+Mag.,Urbanus,Urbain,Ollivarius,Ollivari,,M,,,,,,,,,,,,,,,,,,246,V,,116,,,https://www.geneanet.org/registres/view/17215/116,,Utelle,1608
+,Veran,Véran,Bovis,Bovis,De Chiabaut,M,38,,,,,,,,,,,,,,,,,,R,108,116,Le numéro du folio n’est pas précisé dans la table. La mention « au nom de la communauté » a été barrée.,"Ancien juif nommé Lazare, originaire de Norcia et relevant de la Principauté de la Mirandole, baptisé le 12/04/1609. Il eut pour parrains les honorables André Daideri, bailli, Louis Passeron, Jean Masseglia et Jacques Passeron, syndics, et pour marraines leurs épouses respectives. Les père et mère adoptifs furent quant à eux Jean Bovis et son épouse Jeannette. Il prit le nom de Véran Bovis de Chiabaut suite à sa conversion à la foi chrétienne.",https://www.geneanet.org/registres/view/17215/116,https://www.geneanet.org/registres/view/17215/108,Utelle,1608
