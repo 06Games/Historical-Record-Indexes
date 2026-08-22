@@ -1142,40 +1142,102 @@ Page,Ville,Lieu de sépulture,Prêtre,Annee,Mois,Jour,Titre,Prenom,Nom,Sexe,Age,
 86,Lantosque,,,1708,5,20,,Jean Antoine,Torrini,M,15 ans,,,Charles,Torrini,Marie,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
 86,Lantosque,,,1708,5,26,,Jeanne,,F,60 ans,,,,,,,,Jean Louis †,Gaglio,Le prénom du mari semble barré,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
 86,Lantosque,,,1708,5,27,,André,,M,40 ans,Allemagne,,,,,,,,,Militaire. Agé de 4 ans selon l'acte mais certainement une erreur.,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-86,Lantosque,Chapelle Sainte-Croix,,1708,6,20,,Louis,Oddo,M,6 ans,,,Jean Baptiste,Oddo,Elisabeth,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-86,Lantosque,Chapelle Sainte-Croix,,1708,7,18,,Catherinette,Serre,F,60 ans,,,,,,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+86,Lantosque,Chapelle des Confalons,,1708,6,20,,Louis,Oddo,M,6 ans,,,Jean Baptiste,Oddo,Elisabeth,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+86,Lantosque,Chapelle des Confalons,,1708,7,18,,Catherinette,Serre,F,60 ans,,,,,,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
 86,Lantosque,Chapelle,,1708,8,6,,Catherine,Otto Brondet,F,2 ans,,,Paul,Otto Brondet,Catherine,,,,,Chapelle Sainte-Croix ?,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
 86,Lantosque,Chapelle,,1708,8,11,,Joseph,Ghibert,F,2 ans,,,Jean †,Ghibert,Angèle Marie,,,,,Chapelle Sainte-Croix ?,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
 86,Lantosque,Chapelle,,1708,8,18,,Antoine François,Figheria,M,6 ans,,,Honoré,Figheria,Anne Marie,,,,,Chapelle Sainte-Croix ?,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
 86,Lantosque,Chapelle,,1708,8,22,,Michel Ange,Passeroni,M,2 ans,,,Charles André,Passeroni,Catherine,,,,,Chapelle Sainte-Croix ?,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,8,20,,Jean Baptiste,Thaoni,M,6 mois,,,Louis,Thaoni,Claudine,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,8,24,,Jean Louis,Manseria,M,1 an,,,Hyacinthe,Manseria,Véronique,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle de la Miséricorde,,1708,8,25,,Jean Antoine,Bruni,M,60 ans,,,,,,,,,,Mort soudaine par arme à feu,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,9,1,,Angèle Marie,,F,40 ans,,,,,,,,Louis †,Thaoni,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,9,7,,Anne Camille,Figheria,F,2 ans,,,Pierre,Figheria,Louise,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,9,5,,Pierre Antoine,Gaglio,M,1 an,,,Jean Baptiste,Gaglio,Marie Camille,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,10,13,,Honoré,Ciais,M,75 ans,,,,,,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,10,14,,Jean Baptiste,Gaglio,M,,,,Honoré,Gaglio,Lucrèce,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,10,17,,Antoine Sulpice,Ciais Boem,M,40 ans,,,Pierre,Ciais Boem,,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,8,20,,Jean Baptiste,Thaoni,M,6 mois,,,Louis,Thaoni,Claudine,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,8,24,,Jean Louis,Manseria,M,1 an,,,Hyacinthe,Manseria,Véronique,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle de l’Immaculée Conception,,1708,8,25,,Jean Antoine,Bruni,M,60 ans,,,,,,,,,,Mort soudaine par arme à feu,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,9,1,,Angèle Marie,,F,40 ans,,,,,,,,Louis †,Thaoni,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,9,7,,Anne Camille,Figheria,F,2 ans,,,Pierre,Figheria,Louise,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,9,5,,Pierre Antoine,Gaglio,M,1 an,,,Jean Baptiste,Gaglio,Marie Camille,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,10,13,,Honoré,Ciais,M,75 ans,,,,,,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,10,14,,Jean Baptiste,Gaglio,M,,,,Honoré,Gaglio,Lucrèce,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,10,17,,Antoine Sulpice,Ciais Boem,M,40 ans,,,Pierre,Ciais Boem,,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
 87,Lantosque,Chapelle,,1708,10,18,,Lucrèce,,F,40 ans,,,,,,,,Jean Baptiste,Laurenti,Chapelle Sainte-Croix ?,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,10,23,,Antoine François,Dalloni,M,8 ans,,,Jules César,Dalloni,Elisabeth,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,11,2,,Jean Baptiste,Carassi Berton,M,12 ans,,,Jacques †,Carassi Berton,,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,10,23,,Antoine François,Dalloni,M,8 ans,,,Jules César,Dalloni,Elisabeth,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,11,2,,Jean Baptiste,Carassi Berton,M,12 ans,,,Jacques †,Carassi Berton,,,,,,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
 87,Lantosque,Chapelle,,1708,11,12,,Jean Louis,Dalloni,M,2 jours,,,Pierre Antoine,Dalloni,Catherine,,,,,Né l’avant-veille,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
 87,Lantosque,Chapelle,,1708,11,14,,Madeleine,,F,55 ans,,,,,,,,Joseph †,Gaglio Buot,,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-87,Lantosque,Chapelle Sainte-Croix,,1708,11,21,,Jean Pierre,Otto Loyas,M,1 jour,,,François,Otto Loyas,Toronette,,,,,Né la veille,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
-88,Lantosque,Chapelle Sainte-Croix,,1708,9,3,,Barthélémy,Serre,M,60 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
-88,Lantosque,Chapelle Sainte-Croix,,1708,9,4,,Antoine,Thaon,M,1 jour,,,Jean,Thaon,Marguerite,,,,,Né la veille,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
+87,Lantosque,Chapelle des Confalons,,1708,11,21,,Jean Pierre,Otto Loyas,M,1 jour,,,François,Otto Loyas,Toronette,,,,,Né la veille,48,https://www.geneanet.org/registres/view/17492/48,5 Mi 75/1,21/08/26
+88,Lantosque,Chapelle des Confalons,,1708,9,3,,Barthélémy,Serre,M,60 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
+88,Lantosque,Chapelle des Confalons,,1708,9,4,,Antoine,Thaon,M,1 jour,,,Jean,Thaon,Marguerite,,,,,Né la veille,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
 88,Lantosque,,,1708,9,5,,Jeannette,,F,45 ans,,,,,,,,Jean Baptiste †,Gaglio,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
-88,Lantosque,Chapelle Sainte-Croix,,1708,9,7,,Jean Baptiste,Gaglio,M,1 an,,,Jacques,Gaglio,Toronette,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
+88,Lantosque,Chapelle des Confalons,,1708,9,7,,Jean Baptiste,Gaglio,M,1 an,,,Jacques,Gaglio,Toronette,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
 88,Lantosque,,,1708,9,12,,Jean,Mera,M,1 an,,,Jean Baptiste,Mera,Angèle,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
 88,Lantosque,Couvent Saint-Pancrace,,1708,9,16,nob.,Joseph,Figheria,M,60 ans,,,André †,Figheria,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
 88,Lantosque,Chapelle Sainte-Croix,,1708,9,16,,Jean,Ghibert,M,6 mois,,,Jean †,Ghibert,Angèle Marie,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
 88,Lantosque,,,1708,9,22,,Claudine,Serre,F,25 ans,,,Barthélémy †,Serre,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
-88,Lantosque,Chapelle Sainte-Croix,,1708,9,26,,Paul,Buffoni,M,60 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
-88,Lantosque,Chapelle Sainte-Croix,,1708,9,27,,Angélique Marie,Ciais,F,1 an,,,Honoré,Ciais,Marie,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
-88,Lantosque,Chapelle Sainte-Croix,,1708,9,29,,Joseph,Gaglio Pasté,M,55 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
-88,Lantosque,Chapelle Sainte-Croix,,1708,11,22,,Lucie,Gaglio,F,1 an,,,Jean Baptiste,Gaglio,Jeanne,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
-88,Lantosque,Chapelle Sainte-Croix,,1708,11,23,,Barthélémy,Bovis,M,1 jour,,,Jean Antoine,Bovis,,,,,,Né la veille,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
+88,Lantosque,Chapelle des Confalons,,1708,9,26,,Paul,Buffoni,M,60 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
+88,Lantosque,Chapelle des Confalons,,1708,9,27,,Angélique Marie,Ciais,F,1 an,,,Honoré,Ciais,Marie,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
+88,Lantosque,Chapelle des Confalons,,1708,9,29,,Joseph,Gaglio Pasté,M,55 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
+88,Lantosque,Chapelle des Confalons,,1708,11,22,,Lucie,Gaglio,F,1 an,,,Jean Baptiste,Gaglio,Jeanne,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
+88,Lantosque,Chapelle des Confalons,,1708,11,23,,Barthélémy,Bovis,M,1 jour,,,Jean Antoine,Bovis,,,,,,Né la veille,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
 88,Lantosque,Chapelle Sainte-Croix,,1708,11,29,,Marguerite,,F,40 ans,,,,,,,,Jean Antoine,Bovis,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
-88,Lantosque,Chapelle Sainte-Croix,,1708,11,29,,Louis,Dalloni,M,60 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
-89,Lantosque,Chapelle Sainte-Croix,,1708,12,,,,,,,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,
+88,Lantosque,Chapelle des Confalons,,1708,11,29,,Louis,Dalloni,M,60 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,21/08/26
+89,Lantosque,Chapelle des Confalons,,1708,12,1,,Jean André,Laurenti,M,6 ans,,,Jean Baptiste,Laurenti,Lucrèce,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1708,12,7,,Louise,Figheria,F,25 ans,,,André †,Figheria,,,,,,Sans les sacrements,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1708,12,8,,Jéromine,,M,35 ans,,,,,,,,Joseph,Carassi,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1708,12,9,,Marie Jéromine,Carlin,F,1 an,,,Jean,Carlin,Louise,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1708,12,9,,Catherine,Carassi,F,1 jour,,,Joseph,Carassi,,,,,,Née la veille,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Oratoire Sainte-Croix,,1708,12,11,,Philippe,Gaglio,M,30 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1708,12,13,,Étienne,Dalloni,M,7 ans,,,Pierre Antoine,Dalloni,Angèle Catherine,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1708,12,14,,Jeanne,,F,60 ans,,,,,,,,Louis †,Thaoni,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1708,12,22,,Marie Marguerite,Gaglio,F,,,,Jean Baptiste †,Gaglio,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1709,1,3,,Marguerite,,F,,,,,,,,,Jean Baptiste †,Ciarletti,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,,,1709,1,19,,,,M,,Auvergne,,,,,,,,,"Militaire dit La Violetta. Sous le commandement de Valdeson, régiment de Saglian.",49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,,,1709,1,18,,Françoise,Faraudi,F,45 ans,,,,,,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1709,1,18,,Lucrèce,Lea Vigilant,F,1 an,,,Antoine,Lea Vigilant,Angèle,,,,,,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+89,Lantosque,Chapelle des Confalons,,1709,1,18,,Marguerite,Thaon,F,2 jours,,,Étienne,Thaoni,Jéromine,,,,,Née l’avant-veille,49,https://www.geneanet.org/registres/view/17492/49,5 Mi 75/1,22/08/26
+90,Lantosque,Chapelle des Confalons,,1709,2,18,nob.,Jules César,Dalloni,M,60 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,2,24,,Françoise,Cabanal,F,4 ans,Utelle (06),,,,Françoise,Cabanal,,,,Semble être un enfant naturel. Les grands parents sont Jean Pierre Cabanal et Anne Marie ,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,3,7,,Toronette,Gaglio,F,15 ans,,,André,Gaglio,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,Chapelle des Confalons,,1709,3,8,R. D.,Charles,Doya,M,70 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,Chapelle des Confalons,,1709,3,18,,Jean Baptiste,Moissini,M,3 ans,,,André,Moissini,Angélique,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,Chapelle des Confalons,,1709,3,23,,Joseph,Gaglio,M,45 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,Chapelle des Confalons,,1709,3,25,,Pierre Antoine,Thaoni Besson,M,,,,Pierre,Thaoni Besson,Angélique,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,4,19,,Honoré,Battist,M,2 jours,,,Lucas,Battist,,,,,,Né l’avant-veille. Le père est originaire de Moulinet,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,5,3,,Camille,Davini,F,60 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,6,2,,Jeannette,Sereni,F,60 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,6,6,,Marie,,F,35 ans,,,,,,,,Jean Baptiste,Maurini,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,6,6,,Marie Françoise,Doya,M,4 mois,Nice (06),,Jules César,Doya,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,6,22,,Pierre,Malaussena,M,80 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,7,7,,André,Maurini,M,3 ans,,,Louis,Maurini,Anne Marie,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,8,11,,Victoire,Balbi,F,55 ans,,,Pierre †,Balbi,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+90,Lantosque,,,1709,8,21,,Jean Baptiste,Massiera,M,77 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1709,8,29,,Jéromine,Auda,F,25 ans,,,Louis †,Auda,Marguerite,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1709,9,7,,Julie,Millo,F,2 ans,,,Barthélémy,Millo,Diane,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1709,9,11,,Pierre Joseph,Millo,M,6 mois,,D.i,Barthélémy,Millo,Diane,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1709,9,13,,Honoré,Otto Graglier,M,,,,Laurent,Otto Graglier,Pétronille,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1709,9,14,,Laurent,Otto Graglier,M,50 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1709,9,19,,Angélique,Gal,F,3 ans,,,Joseph,Gal,Jeannette,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1709,9,20,,Toronette,Sicardi,F,35 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1709,10,8,,Jean Baptiste,Carassi,M,1 an,,,Charles Antoine,Carassi,Jeannette,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1709,10,10,,Marie Catherine,Nicolai,F,7 ans,,,Jacques,Nicolai,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,Oratoire Sainte-Croix,,1709,10,19,,Angèle Catherine,Carassi,F,60 ans,,,,,,,,Antoine,Pinobus,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,Chapelle des Confalons,,1709,11,3,,Jean,Millo,M,55 ans,,,Antoine †,Millo,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,Chapelle des Confalons,,1710,1,17,,Louis,Buffoni,M,35 ans,,,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,Chapelle des Confalons,,1710,1,27,,Jean Baptiste,Otto Brondé,M,50 ans,,,Jean Pierre,Otto Brondé,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,Chapelle des Confalons,,1710,2,5,,Marc Antoine,Filibert,M,60 ans,L’Escarène (06),,,,,,,,,,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+91,Lantosque,,,1710,2,7,,Jean,,M,50 ans,Montélimar (26),,,,,,,,,Militaire. Régiment de Battier,50,https://www.geneanet.org/registres/view/17492/50,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,2,25,,Jean,Gal,M,5 ans,,,Jean Baptiste,Gal,Claudine,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,3,25,,Jean Baptiste,Gaglio Copas,M,70 ans,,,,,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,5,14,,Angèle Catherine,Torrini,F,45 ans,,,,,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,6,6,,Angèle Catherine,,F,75 ans,,,,,,,,†,Passeroni Ros,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,6,19,,Joseph,Gaglio,M,2 jours,,,Étienne,Gaglio,Marguerite,,,,,Né l’avant-veille,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,7,5,,Angèle,Stephani,F,25 ans,Lucéram (06),,Honoré,Stephani,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,8,9,,Hyacinthe,Massiera,M,40 ans,,,,,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,8,10,,Jean Baptiste,Barata,M,60 ans,,,,,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,,,1710,8,13,,Jean André,Millo,M,60 ans,,,,,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,8,15,,André,Romani,M,35 ans,Nice (06),,,,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,8,20,,Jean Baptiste,Rostagni,M,65 ans,,,,,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,8,29,,Marie Marguerite,Otto Brondet,F,1 an,,,Louis,Otto Brondet,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,,,1710,8,31,,Jéromine,Olivari,F,20 ans,,,,,Jeannette,Olivari,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+92,Lantosque,Chapelle des Confalons,,1710,9,4,,Claudine,Christini,F,50 ans,,,,,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+93,Lantosque,Chapelle des Confalons,,1710,9,16,,Marie,Basin,F,3 ans,,,Claude,Basin,Toronette,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+93,Lantosque,Chapelle des Confalons,,1710,11,10,,Andrivette,Serre Valé,F,60 ans,,,Jean André †,Serre Valé,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+93,Lantosque,Chapelle des Confalons,,1710,11,25,,Jean Baptiste,Nicolai,M,35 ans,,,Véran,Nicolai,,,,,,,51,https://www.geneanet.org/registres/view/17492/51,5 Mi 75/1,22/08/26
+94,Lantosque,Chapelle des Confalons,Antoine François Thaon,1711,1,4,,,,,,,,,,,,,,,,52,https://www.geneanet.org/registres/view/17492/52,5 Mi 75/1,
