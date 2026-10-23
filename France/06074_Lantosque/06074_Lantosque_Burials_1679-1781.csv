@@ -779,7 +779,7 @@ Page,Ville,Lieu de sépulture,Prêtre,Annee,Mois,Jour,Titre,Prenom,Nom,Sexe,Age,
 62,Lantosque,,,1701,3,3,,Claude,,F,25 ans,,,,,,,,Claude,Auda,,,36,https://www.geneanet.org/registres/view/17492/36,5 Mi 75/1,25/06/26
 62,Lantosque,,,1701,3,7,,Jeanne Françoise,Passeroni,F,1 mois,,,Etienne,Passeroni,Lucrèce,,,,,,,36,https://www.geneanet.org/registres/view/17492/36,5 Mi 75/1,25/06/26
 62,Lantosque,,,1701,3,20,,Louise,,F,65 ans,,,,,,,,Jean Paul †,Gaglio,,,36,https://www.geneanet.org/registres/view/17492/36,5 Mi 75/1,25/06/26
-62,Lantosque,,,1701,3,23,,Marie Catherine,Moissini,F,3 ans,,,Jean Baptiste †,Prudence,,,,,,,,36,https://www.geneanet.org/registres/view/17492/36,5 Mi 75/1,25/06/26
+62,Lantosque,,,1701,3,23,,Marie Catherine,Moissini,F,3 ans,,,Jean Baptiste †,Moissini,Prudence,,,,,,,36,https://www.geneanet.org/registres/view/17492/36,5 Mi 75/1,25/06/26
 62,Lantosque,,,1701,3,28,,Catherine,Passeroni,F,5 ans,,,Jean Baptiste †,Passeroni,Angèle Marie,,,,,,,36,https://www.geneanet.org/registres/view/17492/36,5 Mi 75/1,25/06/26
 62,Lantosque,,,1701,4,3,,Jean François,Figheria,M,50 ans,,,,,,,,,,,,36,https://www.geneanet.org/registres/view/17492/36,5 Mi 75/1,25/06/26
 62,Lantosque,,,1701,4,4,,Angélique Catherine,Passeroni,F,5 jours,,,Jean Baptiste,Passeroni,Catherine,,,,,,,36,https://www.geneanet.org/registres/view/17492/36,5 Mi 75/1,25/06/26
@@ -3013,4 +3013,148 @@ Page,Ville,Lieu de sépulture,Prêtre,Annee,Mois,Jour,Titre,Prenom,Nom,Sexe,Age,
 240,Lantosque,Église paroissiale Saint-Pons,,1748,4,21,,Louise,Maurini,F,30 ans,,,Jean Baptiste †,Maurini,,,,,,,,121,https://www.geneanet.org/registres/view/17492/121,5 Mi 75/1,20/10/26
 240,Lantosque,Église paroissiale Saint-Pons,,1748,4,30,,Marie Catherine,Christini,F,8 ans,,,Jean Honoré,Christini,,,,,,,,121,https://www.geneanet.org/registres/view/17492/121,5 Mi 75/1,20/10/26
 241,Lantosque,Église paroissiale Saint-Pons,,1748,5,1,,Pierre Antoine,Bonet,M,40 ans,"Sainte-Réparate, Nice (06)",,Pierre †,Bonet,,,,,,Tombé d'une falaise,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,20/10/26
-241,Lantosque,Église paroissiale Saint-Pons,,1748,5,2,,,,,,,,,,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,
+241,Lantosque,Église paroissiale Saint-Pons,,1748,5,2,,Marie Marguerite,Maurini,F,35 ans,,,,,,,,Louis,Abolini,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,5,8,,Marie Christine,Thaoni,F,7 ans,,,Hyacinthe,Thaoni,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,5,8,,Marie Madeleine,Fabri,F,30 ans,,D.,Pierre,Fabri,,,,Jean Baptiste,Laurenti,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,5,9,,Étienne,Otto Brondé,M,68 ans,,,Jean Baptiste †,Otto Brondé,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,5,10,,Jean Baptiste,Battist,M,2 mois,,,Laurent,Battist,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,5,13,,Henri,Passeron,M,3 mois,,,Barthélémy,Passeron,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,5,14,,Marie Marguerite,Augier,F,82 ans,,,,,,,,Jean Antoine,Bovis,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,5,22,,Marguerite,Dalloni,F,35 ans,,,,,,,,Laurent,Passeron Ros,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,5,23,,Anne Françoise,,F,10 jours,Nice (06),,,,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,6,6,,Marie Françoise,Girardi,F,92 ans,,,,,,,,Charles Antoine †,Dalloni,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,6,18,,Marie,Romani,F,1 an,,,Pierre,Romani,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,6,23,,Claude,Passeroni,M,4 mois,,,Barthélémy,Passeroni,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+241,Lantosque,Église paroissiale Saint-Pons,,1748,6,28,,Marie Catherine,Thaoni,F,73 ans,,,,,,,,Pierre Antoine,Passeron,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,7,13,,Claudine,Passeroni,F,38 ans,,,,,,,,Antoine,Bruni,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,7,18,,Valentin,Figheria,M,7 ans,,,Pierre Antoine,Figheria,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,7,24,,Marie Victoire,Passeron,F,1 an,,,Étienne,Passeron,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,7,27,,Rose Marie Thérèse,Thaoni,F,2 ans,,,Jean Pierre,Thaoni,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,8,13,,Pierre,Carlin,M,30 ans,,,Jean †,Carlin,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,8,18,,Antoine François,Brun,M,54 ans,,,Sulpice,Brun,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,8,20,,Louis,Dallo,M,45 ans,,,,,,,,,,De père incertain,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,8,29,,Angèle Marie,Martini,F,1 an,,,Pierre,Martini,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,9,6,,Joseph Pierre Benoît,Lopez,M,7 jours,Valencia (ES),,Jean Baptiste,Lopez,,,,,,"Militaire sévillan du régiment de Séville, de la ville de Valence. Sans certitude sur le lieu d’origine, la formulation est ambiguë.",Joseph Petrus Benedictus filius Joannis Bapt.æ Lopez militis Hyspalensis in Regimine Sivigliæ civitatis Valentiæ qui pridie obiit ætatis suæ dierum 7. Sepultus est in hac Parochiali.,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,9,8,,Marie Catherine,Bonfigli,F,3 ans,,,André,Bonfigli,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,9,10,,Honorate,Maurelli,F,22 ans,,,,,,,,Pierre,Robini,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,9,11,,Angèle Marie,Thaoni,F,45 ans,,,Jean,Thaoni,,,,,,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+242,Lantosque,Église paroissiale Saint-Pons,,1748,9,12,,Marie Victoire,Serre,F,52 ans,,,,,,,,Antoine †,Passeroni,,,122,https://www.geneanet.org/registres/view/17492/122,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,9,12,,Marie Madeleine,Pilla,F,25 ans,,,Jules †,Pilla,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,9,21,,Anne Marie,Ciaissi,F,64 ans,,,,,,,,Jules †,Pilla,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,9,23,,Sulpice André,Martelli,M,18 mois,,,Jean André,Martelli,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,9,26,,Louis,Martelli,M,58 ans,,,Jean Baptiste †,Martelli,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,9,26,,Jéromine,Passeroni,F,55 ans,,,Pierre †,Passeroni,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,10,11,,Marie Jéromine,Gagli,F,8 ans,,,Louis,Gagli,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,10,22,,Marie Madeleine,Abolini,F,9 mois,,,Louis,Abolini,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,10,24,,Charles Antoine,Carás,M,2 ans,,,Jean †,Carás,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,10,26,,Marie Marguerite,Auda Mari,F,25 ans,,,Pierre,Auda Mari,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,10,28,,Jean Baptiste,Gagli,M,13 mois,,,Louis,Gagli,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,11,13,,Joseph,Dalloni,M,65 ans,,,Jean Baptiste †,Dalloni,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+243,Lantosque,Église paroissiale Saint-Pons,,1748,11,16,,Jean Baptiste,Gagli,M,58 ans,,,Charles †,Gagli,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1748,12,2,,Pierre André,Nicolai,M,9 mois,,,Jean,Nicolai,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1748,12,6,,Jean Georges François,Romani,M,2 jours,,,Pierre,Romani,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1748,12,11,,Joseph,Simoni,M,7 jours,,,André,Simoni,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1748,12,29,,Marie,Blanchi,F,9 mois,L’Escarène (06),,Barthélémy,Blanchi,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1749,1,5,,Angèle Marie,Raibaudi,F,2 mois,,,Louis,Raibaudi,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1749,1,8,,Joseph,Pilla,M,25 ans,,,Jules †,Pilla,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1749,1,8,,Marie Catherine,Dallò,F,6 mois,,,Jean Baptiste,Dallò,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1749,1,12,,Pierre,Auda Mari,M,4 mois,,,Antoine,Auda Mari,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1749,1,14,,Jean Baptiste,Deleuse,M,3 jours,,,Louis,Deleuse,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1749,2,14,,Marie Jeannette,Dragon,F,9 mois,,,Antoine,Dragon,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+244,Lantosque,Église paroissiale Saint-Pons,,1749,2,21,,Marie Louise,Rostagni,F,14 mois,,,Jean Pierre,Rostagni,,,,,,,,123,https://www.geneanet.org/registres/view/17492/123,5 Mi 75/1,22/10/26
+245,Lantosque,Église Saint-Pancrace,,1749,3,10,D.,Lucrèce,Figheria,F,70 ans,,,,,,,Nob.,Pierre,Passeroni,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Église paroissiale Saint-Pons,,1749,3,15,,Antoine,Pascheri,M,55 ans,,,Pierre Antoine †,Pascheri,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Église paroissiale Saint-Pons,,1749,4,11,,Jean Baptiste,Carlin,M,41 ans,,,Jean †,Carlin,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Chapelle Sainte-Croix,,1749,4,30,,Marie Lucrèce,Buffoni,F,50 ans,,,,,,,,Honoré,Ossé,Otto Ossé ?,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Église paroissiale Saint-Pons,,1749,5,7,,Catherine,Rossi,F,60 ans,,,,,,,,Louis †,Martelli,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Église paroissiale Saint-Pons,,1749,6,30,,Catherine,,F,2 mois,Lucéram (06),,,,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Chapelle Sainte-Croix,,1749,6,30,,Jean Antoine,Millo,M,65 ans,,,Pierre †,Millo,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Église paroissiale Saint-Pons,,1749,7,1,,Lucrèce,Gagli,F,60 ans,,,André †,Gagli,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Église paroissiale Saint-Pons,,1749,7,4,,Marie,Lea,F,85 ans,,,,,,,,Jean Baptiste †,Millo,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Église paroissiale Saint-Pons,,1749,8,10,,Marie Catherine,Passeron Ros,F,17 mois,,,Laurent,Passeron Ros,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+245,Lantosque,Église paroissiale Saint-Pons,,1749,8,13,,Jeanne Marie,Martelli,F,10 mois,,,Pierre,Martelli,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Église paroissiale Saint-Pons,,1749,8,18,,Jean Antoine,Fulconis,M,11 mois,L’Escarène (06),,François,Fulconis,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Chapelle Sainte-Croix,,1749,8,22,,Marie Marguerite,Serre,F,65 ans,,,,,,,,Joseph †,Dalló,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Église paroissiale Saint-Pons,,1749,8,30,,Anne Marie,Maurini,F,3 ans,,,Honoré,Maurini,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Église paroissiale Saint-Pons,,1749,9,23,,Angèle Marie,Laurenti,F,16 mois,,,Joseph,Laurenti,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Église paroissiale Saint-Pons,,1749,9,23,,Marie,Millo,F,66 ans,,,,,,,,Louis,Serre,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Église paroissiale Saint-Pons,,1749,10,21,,Angèle Marie,Dalloni,F,48 ans,,,,,,,,Pierre Antoine,Dalloni,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Église paroissiale Saint-Pons,,1749,10,26,,Marie Louise,Truchi,F,30 ans,,,,,,,,Jean,Dalloni,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Église paroissiale Saint-Pons,,1749,11,15,,Honoré,Millo,M,65 ans,,,Jean Baptiste †,Millo,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Église paroissiale Saint-Pons,,1749,11,29,,Jean Honoré,Christini,M,45 ans,,,Joseph †,Christini,,,,,,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+246,Lantosque,Église paroissiale Saint-Pons,,1749,12,3,,Marie Madeleine,Brun,F,35 ans,,,,,,,,Joseph,Laurenti,,,124,https://www.geneanet.org/registres/view/17492/124,5 Mi 75/1,22/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1749,12,15,,Antoine François,Otto Bruc,M,2 jours,,,Jean Pierre,Otto Bruc,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1749,12,26,,Françoise,Passeroni,F,82 ans,,,,,,,,Honoré,Auda,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1749,12,27,,Jean Antoine,Bovis,M,2 ans,,,Louis,Bovis,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1749,12,30,,Jean Pierre,Robini,M,72 ans,,,Pierre Antoine †,Robini,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1750,1,12,,Marie Jéromine,Thaoni,F,8 jours,,,Pons,Thaoni,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1750,1,15,,Marie Camille,Ciaissi,F,4 jours,,,Antoine François,Ciaissi,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1750,1,17,,Bernard,Valin,M,48 ans,Locana (IT) ?,,Pierre †,Valin,,,,,,de Loanæ du Val de Pont,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1750,1,28,,Louis,Figheria,M,65 ans,,,Joseph †,Figheria,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1750,2,4,,Louis,Passeron Ros,M,28 ans,,,Joseph †,Passeron Ros,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+247,Lantosque,Église paroissiale Saint-Pons,,1750,2,5,,Antoronette,Dalloni,F,58 ans,,,,,,,,Claude,Thaoni,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,2,18,,Andrivette,Figheria,F,65 ans,,,,,,,,Thomas,Augier,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,3,15,,Honorate Marie,Augier,F,17 ans,,,Honoré,Augier,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,5,2,,Honoré,Faraut,M,5 mois,L’Escarène (06),,André,Faraut,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,5,18,R. D.,Joseph,Buffoni,M,78 ans,,D.,Louis,Buffoni,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,6,13,,Charles Antoine,Dalloni,M,14 ans,,Nob.,Charles Antoine,Dalloni,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,6,14,,Jean Baptiste,Millo,M,72 ans,,,Jean André †,Millo,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,7,31,,Jéromine,Gonzales,F,1 an,,,Mathieu,Gonzales,Marie,Otto,,,,Le père est sévillan,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,8,16,,Pierre Philippe,Bruni,M,2 ans,,,Philippe,Bruni,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,8,26,,Angélique,Passeroni,F,72 ans,,,Jean Baptiste †,Passeroni,,,,Joseph,Auda,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+248,Lantosque,Église paroissiale Saint-Pons,,1750,8,31,,Louis,Passeron,M,50 ans,,,Honoré †,Passeron,,,,,,,,125,https://www.geneanet.org/registres/view/17492/125,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,10,3,,Honoré,Auda,M,75 ans,,,Honoré †,Auda,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,10,4,,Marie Jéromine,Torrini,F,5 jours,,,Pierre,Torrini,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,10,9,,Antoine François,Moissini,M,9 mois,,,Pierre Antoine,Moissini,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,10,22,,Marie,Otto Garabuci,F,55 ans,,,,,,,,Louis,Otto Ploros,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,11,18,,Étienne,Gagli,M,62 ans,,,Joseph †,Gagli,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,11,20,,Joseph Antoine,Ciaissi,M,16 jours,,,Pierre Antoine,Ciaissi,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,12,2,,Pierre,Auda Mari,M,75 ans,,,Jean Baptiste †,Auda Mari,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,12,6,,Marie Catherine,Otto Bruc,F,13 mois,,,François,Otto Bruc,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,12,10,,Jean Baptiste,Dalloni,M,60 ans,,,Pierre Antoine †,Dalloni,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,12,13,,Angèle Marguerite,Buffoni,F,2 jours,,,Jean,Buffoni,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,12,19,,Diane,,F,75 ans,,,,,,,,Barthélémy †,Millo,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+249,Lantosque,Église paroissiale Saint-Pons,,1750,12,27,,Marie Louise,Maurelli,F,8 mois,,,,,Marie Catherine,Maurelli,,,,Semble être un enfant naturel,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,1,6,,Jean Louis,Millo,M,7 mois,,,Thomas,Millo,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Chapelle Sainte-Croix,,1751,1,10,,Marie,Passeroni,F,45 ans,,,,,,,,Pierre Antoine †,Thaoni,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,1,14,,Marie Marguerite,Passeroni,F,4 ans,,,Jean Baptiste,Passeroni,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,1,17,,Jean Dominique,,M,8 jours,Nice (06),D.,Jacques,,,,,,,Sans nom de famille,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,1,28,,Jules Michel,Laurenti,M,8 ans,,,Jean Baptiste,Laurenti,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,1,30,,Louisette,Passeroni,F,55 ans,,,,,,,,Joseph,Ciaissi,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,2,3,,Thomas,Passeron,M,45 ans,,,Laurent †,Passeron,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,2,4,,Marie Marguerite,Carlin,F,2 ans,,,Jean Baptiste †,Carlin,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,2,12,,Marie Jeannette,Dalloni,F,8 jours,,,Jean,Dalloni,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Chapelle Sainte-Croix,,1751,2,16,,Marie Catherine,Gagli,F,41 ans,,,,,,,,Jean,Millo,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,2,20,,Antoronette,Gagli,F,58 ans,,,,,,,,Joseph †,Torrini,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,2,25,,Jean Baptiste,Maurini,M,60 ans,,,Joseph †,Maurini,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+250,Lantosque,Église paroissiale Saint-Pons,,1751,3,9,,Marie Josephe,Astri,F,2 ans,,,Jean,Astri,,,,,,,,126,https://www.geneanet.org/registres/view/17492/126,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,18,,Pierre Baptiste,Fabri,M,8 jours,,,Jean Baptiste,Fabri,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,18,,Elisabeth Marie,Malé Rora,F,5 ans,,,Jean Baptiste,Malé Rora,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,20,,François Louis,Dalloni,M,7 mois,,,Jean Baptiste,Dalloni,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,22,,Antoine Thomas,Bonfigli,M,1 an,,,Joseph,Bonfigli,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,22,,Jean Baptiste,Gagli,M,18 ans,,,André †,Gagli,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,28,,Joseph Antoine,Laurenti,M,6 mois,,,Joseph,Laurenti,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,29,,Antoronette,Gagli,F,65 ans,,,,,,,,Jean Antoine †,Auda Mari,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,29,,Marie Thérèse,Gagli,F,18 mois,,,Jean Baptiste,Gagli,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,30,,Joseph André,Deleuse,M,11 mois,,,Louis,Deleuse,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,3,30,,Marie Marguerite,Ciaissi,F,1 an,,,Louis,Ciaissi,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,4,2,,Jean Baptiste,Maurini,M,78 ans,,,André †,Maurini,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,4,2,,Joseph,Figheria,M,18 mois,,,Philippe,Figheria,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+251,Lantosque,Église paroissiale Saint-Pons,,1751,4,2,,Marie Lucrèce,Garusso,F,23 mois,,,Antoine François,Garusso,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,2,,Angèle Marie,Auda,F,2 ans,,,Pierre,Auda,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,2,,Joseph Antoine,Paschier,M,15 jours,,,Jean Baptiste,Paschier,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,2,,Marie Glaudine,Millo,F,8 mois,,,François,Millo,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,3,,Jean Baptiste,Ciaissi,M,10 mois,,,Joseph Antoine,Ciaissi,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,3,,Honoré,Thaoni,M,18 mois,,,Louis,Thaoni,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,5,,Jean Baptiste,Maurini,M,3 ans,,,Joseph,Maurini,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,6,,Pierre André,Dalloni,M,2 ans,,,Jean Baptiste,Dalloni,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,6,,Barthélémy,Dalloni,M,40 jours,,,Étienne,Dalloni,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,6,,Anne Marie,Pech,F,2 mois,Nice (06),,Jacques,Pech,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,7,,Elisabeth Marie,Nicolao,F,8 mois,,,Jean,Nicolao,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,7,,Marie Louise,Otto Brondé,F,2 ans,,,Pierre Antoine,Otto Brondé,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,7,,Anne Marie,Martelli,F,4 ans,,,Honoré,Martelli,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,9,,Louis Colomban,Martelli,M,18 mois,,,Jean André,Martelli,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,10,,Angèle,Passeroni,F,31 ans,,,,,,,,Thomas,Millo,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+252,Lantosque,Église paroissiale Saint-Pons,,1751,4,11,,Antoine François,Christini,M,2 mois,,,Joseph,Christini,,,,,,,,127,https://www.geneanet.org/registres/view/17492/127,5 Mi 75/1,23/10/26
+253,Lantosque,Église paroissiale Saint-Pons,,1751,,,,,,,,,,,,,,,,,,,128,https://www.geneanet.org/registres/view/17492/128,5 Mi 75/1,
+253,Lantosque,Église paroissiale Saint-Pons,,1751,,,,,,,,,,,,,,,,,,,128,https://www.geneanet.org/registres/view/17492/128,5 Mi 75/1,
